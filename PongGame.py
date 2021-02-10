@@ -1,7 +1,5 @@
 import random
 import pygame
-import tkinter as tk
-from tkinter import messagebox
 
 class paddle:
     def __init__(self, start, color=(255,255,255)):
